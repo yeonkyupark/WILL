@@ -14,7 +14,4 @@
 내 그릇부터 제대로 알자.  
 많이 먹고 싶으면 우선 그릇부터 키우자.
 
-```{r}
-plot(iris$Sepal.Length, iris$Sepal.Width)
-```
 
