@@ -4,7 +4,7 @@
 * [세상을 보는 지혜](01-the-art-of-wordly-wisdom.Rmd)
 * [버켓 리스트](90-bucket-list/README.md)
   * [바퀴로](90-bucket-list/undefined.md)
-  * [다리로](90-bucket-list/undefined-1/README.md)
+  * [다리로](90-bucket-list/undefined-1.md)
     * [10만보 걷기](90-bucket-list/undefined-1/10.md)
     * [코리아 들레길](90-bucket-list/undefined-1/undefined/README.md)
       * [제주올레길](90-bucket-list/undefined-1/undefined/undefined.md)
