@@ -1,7 +1,10 @@
 # Table of contents
 
 * [WILL, What I Learned in Life](README.md)
-* [세상을 보는 지혜](01-the-art-of-wordly-wisdom.Rmd)
+* [세상을 보는 지혜](01-the-art-of-wordly-wisdom/README.md)
+  * [나는 닭 한마리를 먹지 못한다.](01-the-art-of-wordly-wisdom/untitled.md)
+  * [똥과 미친 개는 피한다.](01-the-art-of-wordly-wisdom/.-1.md)
+  * [고통도 반복되면 익숙해 진다](01-the-art-of-wordly-wisdom/undefined.md)
 * [버켓 리스트](90-bucket-list/README.md)
   * [바퀴로](90-bucket-list/undefined.md)
   * [다리로](90-bucket-list/undefined-1.md)
